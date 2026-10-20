@@ -1,0 +1,27 @@
+
+# API keys and environment variables
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Local database
+flood_guardian.db
+*.sqlite
+*.sqlite3
+
+# Generated machine learning models
+models/*.pkl
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

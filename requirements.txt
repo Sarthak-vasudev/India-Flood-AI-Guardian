@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+folium
+streamlit
+streamlit-folium
+joblib
+requests
+python-dotenv
